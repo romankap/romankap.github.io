@@ -144,7 +144,7 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-bottom: 20px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 50px;
@@ -687,4 +687,30 @@ ul.social-buttons {
 
 .bio-text {
     font-size: 14px;
+}
+
+.publication-first-line {
+  margin-bottom: 0;
+}
+
+
+.publication-second-line {
+    margin-bottom: 20px;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.publication-venue-line {
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
 }
