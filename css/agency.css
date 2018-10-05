@@ -718,3 +718,9 @@ ul.social-buttons {
 .margin-top-20 {
     margin-top: 20px;
 }
+
+.width-100 {
+    margin-left: -50px !important;
+    width: 100px !important;
+    height: 100px !important;
+}
