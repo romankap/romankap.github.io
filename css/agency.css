@@ -719,8 +719,10 @@ ul.social-buttons {
     margin-top: 20px;
 }
 
-.width-100 {
-    margin-left: -50px !important;
-    width: 100px !important;
-    height: 100px !important;
+@media (min-width: 992px) {
+    .width-100 {
+        margin-left: -50px !important;
+        width: 100px !important;
+        height: 100px !important;
+    }
 }
