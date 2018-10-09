@@ -744,3 +744,7 @@ ul.social-buttons {
         height: 100px !important;
     }
 }
+
+h4.lecture-link {
+    margin-top: 15px;
+}
