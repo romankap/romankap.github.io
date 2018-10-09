@@ -1,0 +1,13 @@
+1a - Memory Importance and Trends
+1b - Course Logistics
+1c - Main Memory and DRAM Basics
+
+2a - Memory Scaling: Reliability & Security
+2b - Flash Memory Reliability & Security
+2c - DRAM Refresh
+
+3 - Processing-in-Memory
+
+4 - Low-Latency Memory
+
+5 - Emerging Memory Technologies
