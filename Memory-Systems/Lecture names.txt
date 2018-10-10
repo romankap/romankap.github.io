@@ -11,3 +11,5 @@
 4 - Low-Latency Memory
 
 5 - Emerging Memory Technologies
+
+6 - Memory Interference and QoS
