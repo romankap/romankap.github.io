@@ -13,3 +13,10 @@
 5 - Emerging Memory Technologies
 
 6 - Memory Interference and QoS
+
+
+day 3, p1 - Low-latency Memory
+day 3, p2 - Low-latency Memory
+day 3, p3 - Low-latency Memory
+day 3, p4-5-6 Emerging Memory Technologies
+day 3, p6 - Memory Interference and QoS
