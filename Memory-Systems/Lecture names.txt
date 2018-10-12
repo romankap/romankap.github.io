@@ -21,5 +21,8 @@ day 3, p3 - Low-latency Memory
 day 3, p4-5-6 Emerging Memory Technologies
 day 3, p6 - Memory Interference and QoS
 
-Day 4, p1-2-3 - Memory Interference and QoS
-Day 4, p4-5 - Interconnect
+Day 4, p1-2-3-4 - Memory Interference and QoS
+Day 4, p5-6 - Interconnect
+
+Day 5, p1-2 - Interconnect
+
